@@ -1,0 +1,8 @@
+<html>
+<p>git add .
+PS C:\Users\adity\Downloads\code> git commit -m "First Oush"
+[main 9e6f2bb] First Oush
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 index.hml
+PS C:\Users\adity\Downloads\code> git push -u origin main</p>
+</html>
